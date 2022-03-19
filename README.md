@@ -2,6 +2,9 @@
 
 ## Improving high frequency image features of Deep Learning reconstructions via k-space refinement with null-space kernel
 
+![alt text](https://https://github.com/KHRyu8985/RefineDLMRI/edit/main/Fig1_revised.png "Refining process (b)")
+
+
 This repo contains code for Refining DL reconstruction via null-space kernel. 
 
 By utilizing a null-space kernel, we can correct for errors in Deep Learning's kspace estimates and refine reconstruction. 
