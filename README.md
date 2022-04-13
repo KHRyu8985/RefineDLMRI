@@ -1,7 +1,9 @@
 # RefineDLMRI
 
 ## Improving high frequency image features of Deep Learning reconstructions via k-space refinement with null-space kernel
+
 Accepted in Magnetic Resonance in Medicine (2022)
+
 March 19. 2022 Kanghyun Ryu (kanghyun@stanford.edu)
 
 This repo contains code for Refining DL reconstruction via null-space kernel. 
